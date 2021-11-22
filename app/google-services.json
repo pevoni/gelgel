@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913691686026",
+    "firebase_url": "https://gelgel-9709e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gelgel-9709e",
+    "storage_bucket": "gelgel-9709e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913691686026:android:eef168d9db9b580c406973",
+        "android_client_info": {
+          "package_name": "com.example.gelgel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913691686026-sko653u3vkqcn0l2sh7h3hqg4v51qn50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gelgel",
+            "certificate_hash": "028110b8da955efa0c85dd58cdac7cf10d8410c8"
+          }
+        },
+        {
+          "client_id": "913691686026-3v64nlcjl368d2gk7584ahmm30voi97v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiL-Mj4sbJor8BVgtCZpreG-pvCP2cT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913691686026-3v64nlcjl368d2gk7584ahmm30voi97v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
